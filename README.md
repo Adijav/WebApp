@@ -1,2 +1,2 @@
 # Web App
-Skeleton to build AngularJS applications
+A Skeleton to build AngularJS applications
